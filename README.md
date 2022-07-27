@@ -1,7 +1,4 @@
-# Reactive Pod
-<img src="	https://img.shields.io/github/issues/parikshit223933/Reactive-Pod"> <img src="https://img.shields.io/badge/Dev-Complete-brightgreen">
-
-(https://DivyanshLokwani.github.io/Reactive-Pod/)
+LINK : https://mango-ipod.netlify.app/
 
 > A Virtual i-pod using React JS.
 
